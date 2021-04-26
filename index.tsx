@@ -7,7 +7,9 @@ import React, {
   useState
 } from 'react'
 
-import { findNodeHandle, NativeModules, Platform, TextInput, TextInputProps } from 'react-native'
+import {Input} from '@ui-kitten/components';
+
+import { findNodeHandle, NativeModules, Platform, TextInputProps } from 'react-native'
 
 const { RNTextInputMask } = NativeModules as { RNTextInputMask: MaskOperations }
 
@@ -37,7 +39,7 @@ const TextInputMask = forwardRef<Handles, TextInputMaskProps>(({
     rightToLeft,
     ...rest
 }, ref) => {
-  const input = useRef<TextInput>(null)
+  const input = useRef<Input>(null)
   const [ maskedValue, setMaskedValue ] = useState<string>()
 
   useEffectAsync(async () => {
@@ -78,7 +80,7 @@ const TextInputMask = forwardRef<Handles, TextInputMaskProps>(({
   }))
 
   return (
-      <TextInput
+      <Input
           {...rest}
           ref={input}
           value={maskedValue}

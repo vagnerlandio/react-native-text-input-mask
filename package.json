@@ -34,5 +34,10 @@
   "bugs": {
     "url": "https://github.com/react-native-community/react-native-text-input-mask/issues"
   },
-  "homepage": "https://github.com/react-native-community/react-native-text-input-mask"
+  "homepage": "https://github.com/react-native-community/react-native-text-input-mask",
+  "dependencies": {
+    "@eva-design/eva": "^2.1.0",
+    "@ui-kitten/components": "^5.1.0",
+    "react-native-svg": "^12.1.1"
+  }
 }
