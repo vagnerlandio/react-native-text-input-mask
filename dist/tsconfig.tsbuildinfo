@@ -1,0 +1,2043 @@
+{
+  "program": {
+    "fileInfos": {
+      "../node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "9622e8bd7cc72a7dab819a8011ecbf81d443638082e5cb99ecf2e75ff56ffc9d",
+        "signature": "9622e8bd7cc72a7dab819a8011ecbf81d443638082e5cb99ecf2e75ff56ffc9d",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "signature": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
+        "signature": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
+        "signature": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.es2018.d.ts": {
+        "version": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
+        "signature": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.es2019.d.ts": {
+        "version": "e6b724280c694a9f588847f754198fb96c43d805f065c3a5b28bbc9594541c84",
+        "signature": "e6b724280c694a9f588847f754198fb96c43d805f065c3a5b28bbc9594541c84",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.es2020.d.ts": {
+        "version": "e21c071ca3e1b4a815d5f04a7475adcaeea5d64367e840dd0154096d705c3940",
+        "signature": "e21c071ca3e1b4a815d5f04a7475adcaeea5d64367e840dd0154096d705c3940",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.esnext.d.ts": {
+        "version": "fc7a21dd3ee27fd0a9ff1c46534efcd9c3cec51a445b479bb326d871c0aa8302",
+        "signature": "fc7a21dd3ee27fd0a9ff1c46534efcd9c3cec51a445b479bb326d871c0aa8302",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "signature": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "signature": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "signature": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
+        "signature": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
+        "signature": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "7207e317a2cb07a177e7d963ab7b8c0e85dde7f9ddb50351f830239bf597569e",
+        "signature": "7207e317a2cb07a177e7d963ab7b8c0e85dde7f9ddb50351f830239bf597569e",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "signature": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "signature": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
+        "signature": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
+        "signature": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
+        "signature": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "7ce9f0bde3307ca1f944119f6365f2d776d281a393b576a18a2f2893a2d75c98",
+        "signature": "7ce9f0bde3307ca1f944119f6365f2d776d281a393b576a18a2f2893a2d75c98",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
+        "signature": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
+        "signature": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
+        "signature": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts": {
+        "version": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
+        "signature": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+        "version": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
+        "signature": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+        "version": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
+        "signature": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+        "version": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
+        "signature": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+        "version": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
+        "signature": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2019.array.d.ts": {
+        "version": "9d57b2b5d15838ed094aa9ff1299eecef40b190722eb619bac4616657a05f951",
+        "signature": "9d57b2b5d15838ed094aa9ff1299eecef40b190722eb619bac4616657a05f951",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2019.object.d.ts": {
+        "version": "6c51b5dd26a2c31dbf37f00cfc32b2aa6a92e19c995aefb5b97a3a64f1ac99de",
+        "signature": "6c51b5dd26a2c31dbf37f00cfc32b2aa6a92e19c995aefb5b97a3a64f1ac99de",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2019.string.d.ts": {
+        "version": "93544ca2f26a48716c1b6c5091842cad63129daac422dfa4bc52460465f22bb1",
+        "signature": "93544ca2f26a48716c1b6c5091842cad63129daac422dfa4bc52460465f22bb1",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2019.symbol.d.ts": {
+        "version": "2ad234885a4240522efccd77de6c7d99eecf9b4de0914adb9a35c0c22433f993",
+        "signature": "2ad234885a4240522efccd77de6c7d99eecf9b4de0914adb9a35c0c22433f993",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2020.bigint.d.ts": {
+        "version": "7b5a10e3c897fabece5a51aa85b4111727d7adb53c2734b5d37230ff96802a09",
+        "signature": "7b5a10e3c897fabece5a51aa85b4111727d7adb53c2734b5d37230ff96802a09",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2020.promise.d.ts": {
+        "version": "7435b75fdf3509622e79622dbe5091cf4b09688410ee2034e4fc17d0c99d0862",
+        "signature": "7435b75fdf3509622e79622dbe5091cf4b09688410ee2034e4fc17d0c99d0862",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts": {
+        "version": "e7e8e1d368290e9295ef18ca23f405cf40d5456fa9f20db6373a61ca45f75f40",
+        "signature": "e7e8e1d368290e9295ef18ca23f405cf40d5456fa9f20db6373a61ca45f75f40",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2020.string.d.ts": {
+        "version": "faf0221ae0465363c842ce6aa8a0cbda5d9296940a8e26c86e04cc4081eea21e",
+        "signature": "faf0221ae0465363c842ce6aa8a0cbda5d9296940a8e26c86e04cc4081eea21e",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts": {
+        "version": "936d7d2e8851af9ccfa5333b15e877a824417d352b1d7fd06388639dc69ef80a",
+        "signature": "936d7d2e8851af9ccfa5333b15e877a824417d352b1d7fd06388639dc69ef80a",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2020.intl.d.ts": {
+        "version": "31e8df2398e328077079c17ea4f1664bad0a34adf8b0608837e504e310e329a1",
+        "signature": "31e8df2398e328077079c17ea4f1664bad0a34adf8b0608837e504e310e329a1",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.esnext.intl.d.ts": {
+        "version": "89bf2b7a601b73ea4311eda9c41f86a58994fec1bee3b87c4a14d68d9adcdcbd",
+        "signature": "89bf2b7a601b73ea4311eda9c41f86a58994fec1bee3b87c4a14d68d9adcdcbd",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.esnext.string.d.ts": {
+        "version": "fb4416144c1bf0323ccbc9afb0ab289c07312214e8820ad17d709498c865a3fe",
+        "signature": "fb4416144c1bf0323ccbc9afb0ab289c07312214e8820ad17d709498c865a3fe",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.esnext.promise.d.ts": {
+        "version": "cd6efb9467a8b6338ece2e2855e37765700f2cd061ca54b01b33878cf5c7677e",
+        "signature": "cd6efb9467a8b6338ece2e2855e37765700f2cd061ca54b01b33878cf5c7677e",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.esnext.weakref.d.ts": {
+        "version": "1e61418f41d404e744b6536af9f8c6f6674dd4d54c12335cd0c4f7eded69cf3f",
+        "signature": "1e61418f41d404e744b6536af9f8c6f6674dd4d54c12335cd0c4f7eded69cf3f",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/tslib/tslib.d.ts": {
+        "version": "55d7868222288a4054166fecbfbaeee46dd3b1b58e4a118e40e9c8c13a9fbe84",
+        "signature": "55d7868222288a4054166fecbfbaeee46dd3b1b58e4a118e40e9c8c13a9fbe84",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/react/global.d.ts": {
+        "version": "ecf78e637f710f340ec08d5d92b3f31b134a46a4fcf2e758690d8c46ce62cba6",
+        "signature": "ecf78e637f710f340ec08d5d92b3f31b134a46a4fcf2e758690d8c46ce62cba6",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/csstype/index.d.ts": {
+        "version": "2421504d4ad8486abdb522b7bcdd4caafbcf4a320cdf7b19e780df258c639d7f",
+        "signature": "2421504d4ad8486abdb522b7bcdd4caafbcf4a320cdf7b19e780df258c639d7f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/prop-types/index.d.ts": {
+        "version": "a7e32dcb90bf0c1b7a1e4ac89b0f7747cbcba25e7beddc1ebf17be1e161842ad",
+        "signature": "a7e32dcb90bf0c1b7a1e4ac89b0f7747cbcba25e7beddc1ebf17be1e161842ad",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/react/index.d.ts": {
+        "version": "277e380acf34d4f66398100a66ac29213ea43674f114906f007204f29cc9a8b7",
+        "signature": "277e380acf34d4f66398100a66ac29213ea43674f114906f007204f29cc9a8b7",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@eva-design/dss/types/schema.d.ts": {
+        "version": "a4274c7b643a264cf6efb787a60c9aaa52aaaa3b26d833abdeb1f01d69d6b0d7",
+        "signature": "a4274c7b643a264cf6efb787a60c9aaa52aaaa3b26d833abdeb1f01d69d6b0d7",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@eva-design/dss/types/schema-customization.d.ts": {
+        "version": "de3c411932f2d7f3f82a7b87ff5d6d3db6896e4c9c1bae486276cf44e3f2efd7",
+        "signature": "de3c411932f2d7f3f82a7b87ff5d6d3db6896e4c9c1bae486276cf44e3f2efd7",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@eva-design/dss/index.d.ts": {
+        "version": "408e926f442c265b35220a4f9cd9d02d0ad5adac903b14b6fcf4fa6dfb28a747",
+        "signature": "408e926f442c265b35220a4f9cd9d02d0ad5adac903b14b6fcf4fa6dfb28a747",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/theme/theme/theme.service.d.ts": {
+        "version": "00df707f6be4a35ffb4a1b8da035735f5666b090ffc7d2d2a9a6862c98c29898",
+        "signature": "00df707f6be4a35ffb4a1b8da035735f5666b090ffc7d2d2a9a6862c98c29898",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/theme/theme/themeprovider.component.d.ts": {
+        "version": "d2cad42d0477fbf9149ce7c75668486f896a4af4bb7be9a01783b856b9250eab",
+        "signature": "d2cad42d0477fbf9149ce7c75668486f896a4af4bb7be9a01783b856b9250eab",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/theme/application/applicationprovider.component.d.ts": {
+        "version": "cf1c2e603e44b758acf68755cb48f482085612971c53e6b52c6ff9672343f382",
+        "signature": "cf1c2e603e44b758acf68755cb48f482085612971c53e6b52c6ff9672343f382",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/react-native/globals.d.ts": {
+        "version": "c2e7fb3e4afee511466903b2440dabca76b58d3bd8987513c97d7644b9df29aa",
+        "signature": "c2e7fb3e4afee511466903b2440dabca76b58d3bd8987513c97d7644b9df29aa",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/react-native/legacy-properties.d.ts": {
+        "version": "818a9a35cf844bd8380e9273b8ed82023c614164d0975f096b8c9b680730cbc3",
+        "signature": "818a9a35cf844bd8380e9273b8ed82023c614164d0975f096b8c9b680730cbc3",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/react-native/batchedbridge.d.ts": {
+        "version": "496293b62091a5bfb97dac7a0055f3e73dfc7b8d8c220000ecf68635c0bef790",
+        "signature": "496293b62091a5bfb97dac7a0055f3e73dfc7b8d8c220000ecf68635c0bef790",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/react-native/devtools.d.ts": {
+        "version": "715ee74e86e7388d2923cd6377fafcf3f86bea534d5cb4c827a1603383fabdb3",
+        "signature": "715ee74e86e7388d2923cd6377fafcf3f86bea534d5cb4c827a1603383fabdb3",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/react-native/launchscreen.d.ts": {
+        "version": "234b97ac9af46707f2315ff395a9b340d37b7dbc8290d91f5d6bd97189d220f3",
+        "signature": "234b97ac9af46707f2315ff395a9b340d37b7dbc8290d91f5d6bd97189d220f3",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/react-native/node_modules/@types/react/global.d.ts": {
+        "version": "ecf78e637f710f340ec08d5d92b3f31b134a46a4fcf2e758690d8c46ce62cba6",
+        "signature": "ecf78e637f710f340ec08d5d92b3f31b134a46a4fcf2e758690d8c46ce62cba6",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/react-native/node_modules/@types/react/index.d.ts": {
+        "version": "5eec5df7493ec6ad30cd641228d5ec7a5cc46d86e04a7f5d4f3cc239c6fa05bc",
+        "signature": "5eec5df7493ec6ad30cd641228d5ec7a5cc46d86e04a7f5d4f3cc239c6fa05bc",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/react-native/index.d.ts": {
+        "version": "63a6956146778d40abb01db9c5ef7003f122fa46cb8bd71d2201a051d15757c5",
+        "signature": "63a6956146778d40abb01db9c5ef7003f122fa46cb8bd71d2201a051d15757c5",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@ui-kitten/components/theme/modal/modal.service.d.ts": {
+        "version": "797be692176f56a68c4568f0583e49086bbbc24c5d230fe7f2db0bb82293638a",
+        "signature": "797be692176f56a68c4568f0583e49086bbbc24c5d230fe7f2db0bb82293638a",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/theme/modal/modalpanel.component.d.ts": {
+        "version": "56af0ab4943ee3dbe705f1f262e5b053c2fe90d3ed5ff885c7da0332b290d341",
+        "signature": "56af0ab4943ee3dbe705f1f262e5b053c2fe90d3ed5ff885c7da0332b290d341",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/theme/style/style.service.d.ts": {
+        "version": "0d0a92af61341b1cd469a46d2f19091e0ea0daaa050b4f06649e2d37d5908d89",
+        "signature": "0d0a92af61341b1cd469a46d2f19091e0ea0daaa050b4f06649e2d37d5908d89",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/theme/style/styled.d.ts": {
+        "version": "0b2922ba4ac7fe53871045c603b19ed925de3268d1d17168ce1b1bfbd3e9e9f4",
+        "signature": "0b2922ba4ac7fe53871045c603b19ed925de3268d1d17168ce1b1bfbd3e9e9f4",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/theme/theme/withstyles.d.ts": {
+        "version": "53f134c5118fe1f811062d461d745131106877371e4fd1bb816531e6d5dd64cb",
+        "signature": "53f134c5118fe1f811062d461d745131106877371e4fd1bb816531e6d5dd64cb",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/theme/index.d.ts": {
+        "version": "7d5c58904570dd5f86af043e4a75ac14a06c83a1c8469618325d28edea46504e",
+        "signature": "7d5c58904570dd5f86af043e4a75ac14a06c83a1c8469618325d28edea46504e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/animation/animation.d.ts": {
+        "version": "86f5fb0018118617bb1d850cfc27e69da07c9a7c02563bf8eb15b93e2efdfc99",
+        "signature": "86f5fb0018118617bb1d850cfc27e69da07c9a7c02563bf8eb15b93e2efdfc99",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/animation/pulseanimation.d.ts": {
+        "version": "a9f02b7769257a3d63bef20efad1d1a58eea4c40b9e28af0dee65aea8fe50f67",
+        "signature": "a9f02b7769257a3d63bef20efad1d1a58eea4c40b9e28af0dee65aea8fe50f67",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/animation/shakeanimation.d.ts": {
+        "version": "8331e05662c438ecca42cba2ef7d4d3ad4c444be74a816b8bf26d8a6c99fab19",
+        "signature": "8331e05662c438ecca42cba2ef7d4d3ad4c444be74a816b8bf26d8a6c99fab19",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/animation/zoomanimation.d.ts": {
+        "version": "61149a761f84c315f2f8e0fee17c6ebca6a61f6035135e708d282bcbf7af60ee",
+        "signature": "61149a761f84c315f2f8e0fee17c6ebca6a61f6035135e708d282bcbf7af60ee",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/animation/index.d.ts": {
+        "version": "dfae98e63533fccf4287654ba8187f7facccd3d043d4ae667ad4e4188d936696",
+        "signature": "dfae98e63533fccf4287654ba8187f7facccd3d043d4ae667ad4e4188d936696",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/devsupport/components/falsyfc/falsyfc.component.d.ts": {
+        "version": "3886c2e349d0c7ca86f6ab4260f53ca8bf74b2175bb7017fe4b727e211bb8ec5",
+        "signature": "3886c2e349d0c7ca86f6ab4260f53ca8bf74b2175bb7017fe4b727e211bb8ec5",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts": {
+        "version": "d397a955d2ef6796aed819f6f5d6547b0f90e17ba73fb3c78e94a33b121cd06f",
+        "signature": "d397a955d2ef6796aed819f6f5d6547b0f90e17ba73fb3c78e94a33b121cd06f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/devsupport/components/falsytext/falsytext.component.d.ts": {
+        "version": "4f4e52cc23bdea5e7358e1c5451c5cf072dcd15953da4cc67c8f505cbaccd805",
+        "signature": "4f4e52cc23bdea5e7358e1c5451c5cf072dcd15953da4cc67c8f505cbaccd805",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/devsupport/components/touchablewithoutfeedback.component.d.ts": {
+        "version": "eb17e386af309b0fd0133bb9dcf44e9a50bc7ca20e453fd84d72848f67351859",
+        "signature": "eb17e386af309b0fd0133bb9dcf44e9a50bc7ca20e453fd84d72848f67351859",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/devsupport/components/touchableweb.component.d.ts": {
+        "version": "c249a07340c50f0137867b32a157f308fe30c1f0e7cf5e5ecc8424def2690d6d",
+        "signature": "c249a07340c50f0137867b32a157f308fe30c1f0e7cf5e5ecc8424def2690d6d",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/devsupport/components/measure/type.d.ts": {
+        "version": "a41017e25f9a15c22dfb44e302429ee0707641fe70d7a03cfe37adc48a1fd728",
+        "signature": "a41017e25f9a15c22dfb44e302429ee0707641fe70d7a03cfe37adc48a1fd728",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/devsupport/components/measure/measure.component.d.ts": {
+        "version": "11c580e7d09a5e9bc131d263f43738aa1d10692c81bea102c8a60e50b4094749",
+        "signature": "11c580e7d09a5e9bc131d263f43738aa1d10692c81bea102c8a60e50b4094749",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/devsupport/services/web/webeventresponder.d.ts": {
+        "version": "f33e22aecd31364fe63dc44453e1ecff4bcc82327c61c384f5eb9f6e6e0a633b",
+        "signature": "f33e22aecd31364fe63dc44453e1ecff4bcc82327c61c384f5eb9f6e6e0a633b",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/devsupport/services/rtl/rtl.service.d.ts": {
+        "version": "70302d5f7cd068b120d0017b0d5228a6fced1258f4fa0ba5b3b4fc52fa5a57bd",
+        "signature": "70302d5f7cd068b120d0017b0d5228a6fced1258f4fa0ba5b3b4fc52fa5a57bd",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/devsupport/services/props/props.service.d.ts": {
+        "version": "1ce7d2dd29ac060ba37c68e2866049566ba3d3d3e5fd4bab2214d24085dc1478",
+        "signature": "1ce7d2dd29ac060ba37c68e2866049566ba3d3d3e5fd4bab2214d24085dc1478",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/devsupport/typings.d.ts": {
+        "version": "bcbf1a9bc56f8b2419d34c4e2a5c2d59c165338439327fefa1e13429aef5c709",
+        "signature": "bcbf1a9bc56f8b2419d34c4e2a5c2d59c165338439327fefa1e13429aef5c709",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/devsupport/index.d.ts": {
+        "version": "0eff2ef38cef0f5f290bcf668c4d27fdbf2ecb552105f0f67cfd5d7ba54d06dd",
+        "signature": "0eff2ef38cef0f5f290bcf668c4d27fdbf2ecb552105f0f67cfd5d7ba54d06dd",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/input/input.component.d.ts": {
+        "version": "2d55c44ba80f7c15346bf70bae7b8b403203fc325505dd60876b05cdde5bb3eb",
+        "signature": "2d55c44ba80f7c15346bf70bae7b8b403203fc325505dd60876b05cdde5bb3eb",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/modal/modal.component.d.ts": {
+        "version": "209c66af1e5a82b2eba3a22a2f6afe692c43a215a7c3abc4ef88d838eac8f5f7",
+        "signature": "209c66af1e5a82b2eba3a22a2f6afe692c43a215a7c3abc4ef88d838eac8f5f7",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/popover/type.d.ts": {
+        "version": "cd728f74937b3009b654163b701223d28a3a116fbec27efbb4f8c54957c2ac80",
+        "signature": "cd728f74937b3009b654163b701223d28a3a116fbec27efbb4f8c54957c2ac80",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/popover/popoverview.component.d.ts": {
+        "version": "a785ee6d459285b1f3e59a1d57c860eba314520801ca5f2dc5a7014fd4d2ceaa",
+        "signature": "a785ee6d459285b1f3e59a1d57c860eba314520801ca5f2dc5a7014fd4d2ceaa",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/popover/popover.component.d.ts": {
+        "version": "48654d4f64a80b4013d5e268dcb64b53918663c81eb1a5ad2919bbb56dc66acf",
+        "signature": "48654d4f64a80b4013d5e268dcb64b53918663c81eb1a5ad2919bbb56dc66acf",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/list/listitem.component.d.ts": {
+        "version": "67c04e64b4571cf7cd0c1ecaedcba22505feb5943eda87824b46078b86dcea15",
+        "signature": "67c04e64b4571cf7cd0c1ecaedcba22505feb5943eda87824b46078b86dcea15",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/autocomplete/autocompleteitem.component.d.ts": {
+        "version": "1a30e581ee2937b76bcf5ed48809d63fd97c2b986f49985d817ac152566948b8",
+        "signature": "1a30e581ee2937b76bcf5ed48809d63fd97c2b986f49985d817ac152566948b8",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/autocomplete/autocomplete.component.d.ts": {
+        "version": "676ca9bb1efb376b0e0f033f84e6b80e85de8d6413cc9d738c8c8636b2efa155",
+        "signature": "676ca9bb1efb376b0e0f033f84e6b80e85de8d6413cc9d738c8c8636b2efa155",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/avatar/avatar.component.d.ts": {
+        "version": "9d78df9c19646d93d01edf172b89d2f1e0fb0b1220db3df0dcd7f7ce4db070e7",
+        "signature": "9d78df9c19646d93d01edf172b89d2f1e0fb0b1220db3df0dcd7f7ce4db070e7",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/bottomnavigation/bottomnavigationtab.component.d.ts": {
+        "version": "0132b68c13f4b4115b5dc6ecf9b66db1114820014945671b35dae6d27accb2b1",
+        "signature": "0132b68c13f4b4115b5dc6ecf9b66db1114820014945671b35dae6d27accb2b1",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/bottomnavigation/bottomnavigation.component.d.ts": {
+        "version": "b0feec53cdd8854db2589ea31db2f0a96a4a31982317f7a553028c7dfbcf326b",
+        "signature": "b0feec53cdd8854db2589ea31db2f0a96a4a31982317f7a553028c7dfbcf326b",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/button/button.component.d.ts": {
+        "version": "711a2c44ec4a663a57ab20af7fc677e6d64119b88badc59342b1603d36c9592d",
+        "signature": "711a2c44ec4a663a57ab20af7fc677e6d64119b88badc59342b1603d36c9592d",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/buttongroup/buttongroup.component.d.ts": {
+        "version": "eebe4b6e8e03e8c12eddc587e413bb520062d45dbea218b862e6c5e4b5ef8b92",
+        "signature": "eebe4b6e8e03e8c12eddc587e413bb520062d45dbea218b862e6c5e4b5ef8b92",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/calendar/type.d.ts": {
+        "version": "b58315166965393440ec91363b57ec0b806e824ba5f6ee574ab503ce996a1eae",
+        "signature": "b58315166965393440ec91363b57ec0b806e824ba5f6ee574ab503ce996a1eae",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/calendar/components/picker/calendarpickercell.component.d.ts": {
+        "version": "ffec6a9ca25600864c437c721a5ff96f7752e53ebf6a7875d5485d4cf9b04917",
+        "signature": "ffec6a9ca25600864c437c721a5ff96f7752e53ebf6a7875d5485d4cf9b04917",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/calendar/i18n/type.d.ts": {
+        "version": "467b6420f3f6f6969b2d7a99e6c6bfad0c753a19954b1837fae2601715b53251",
+        "signature": "467b6420f3f6f6969b2d7a99e6c6bfad0c753a19954b1837fae2601715b53251",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/calendar/service/date.service.d.ts": {
+        "version": "6a0bf05e4591073331d71f0b6c2cd8ab76ef487ac2a99bf61ad269b0e9d0044d",
+        "signature": "6a0bf05e4591073331d71f0b6c2cd8ab76ef487ac2a99bf61ad269b0e9d0044d",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/calendar/service/calendardata.service.d.ts": {
+        "version": "4f850de0cc094500c34d13d3726e685f7eaecb37f25c8a7a6081c1756d586d8b",
+        "signature": "4f850de0cc094500c34d13d3726e685f7eaecb37f25c8a7a6081c1756d586d8b",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/calendar/basecalendar.component.d.ts": {
+        "version": "f839e28e92c819b19fa0b4faba4a5c3ec2dbb531e4f3b55112e778982eb265cb",
+        "signature": "f839e28e92c819b19fa0b4faba4a5c3ec2dbb531e4f3b55112e778982eb265cb",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/calendar/calendar.component.d.ts": {
+        "version": "31ab783980efb89d21350786048413f9c27cb89daea631c0b93a5c80678bd089",
+        "signature": "31ab783980efb89d21350786048413f9c27cb89daea631c0b93a5c80678bd089",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/card/card.component.d.ts": {
+        "version": "11ca56c4e234066a4079da2de47816144fa3c0a0ff544317e962b045fd12e517",
+        "signature": "11ca56c4e234066a4079da2de47816144fa3c0a0ff544317e962b045fd12e517",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/calendar/rangecalendar.component.d.ts": {
+        "version": "fdf493e5b719ed5bf68b445bd2f55c1d465339ddbf231afc3d02d22fca062ff2",
+        "signature": "fdf493e5b719ed5bf68b445bd2f55c1d465339ddbf231afc3d02d22fca062ff2",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/checkbox/checkbox.component.d.ts": {
+        "version": "ce15ac0bcf0a2dbd8d7f7940f7d89bec2af3e8c9adfe89e2fda327d2c766e716",
+        "signature": "ce15ac0bcf0a2dbd8d7f7940f7d89bec2af3e8c9adfe89e2fda327d2c766e716",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/datepicker/basedatepicker.component.d.ts": {
+        "version": "9a24d261f83bd0bff8035231aea10b508d0a5edac2b2274321d3c96219a23248",
+        "signature": "9a24d261f83bd0bff8035231aea10b508d0a5edac2b2274321d3c96219a23248",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/datepicker/datepicker.component.d.ts": {
+        "version": "ccc5c31c6b7707b3602eb558dfbc3975b9e621bc41d39de4d8d704986232d477",
+        "signature": "ccc5c31c6b7707b3602eb558dfbc3975b9e621bc41d39de4d8d704986232d477",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/datepicker/rangedatepicker.component.d.ts": {
+        "version": "e9e3c14f52a223d5d5a29092af571a78ad2fb506d94719dc1bd3199d97ad0b73",
+        "signature": "e9e3c14f52a223d5d5a29092af571a78ad2fb506d94719dc1bd3199d97ad0b73",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/list/list.component.d.ts": {
+        "version": "92586e75284f3bd4ed60a427e767becb0bcce72428bc54e18d25e7763930ee82",
+        "signature": "92586e75284f3bd4ed60a427e767becb0bcce72428bc54e18d25e7763930ee82",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/menu/menu.service.d.ts": {
+        "version": "66021d5f1c7594c737e7955753bb3f81f8e378347949954467ff01704a1f9ffa",
+        "signature": "66021d5f1c7594c737e7955753bb3f81f8e378347949954467ff01704a1f9ffa",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/menu/menuitem.component.d.ts": {
+        "version": "2d1b39f7157520ac2adcfae52d830b0a18fc2864d416f4896fe36913bac4141a",
+        "signature": "2d1b39f7157520ac2adcfae52d830b0a18fc2864d416f4896fe36913bac4141a",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/menu/menu.component.d.ts": {
+        "version": "5ea284d2e6ba63705d07c618a1d1c4e16231a21bf2d9e08403869ea74311d6e8",
+        "signature": "5ea284d2e6ba63705d07c618a1d1c4e16231a21bf2d9e08403869ea74311d6e8",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/drawer/drawer.component.d.ts": {
+        "version": "b3b60d569f8308ac436170f884ec910394dbb5cd05ad21f390cfa64f7b8607b8",
+        "signature": "b3b60d569f8308ac436170f884ec910394dbb5cd05ad21f390cfa64f7b8607b8",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/menu/menugroup.component.d.ts": {
+        "version": "435ad471f305fdaf5300c9f25633761c22b55e698fc91b95b7d8521f03337c01",
+        "signature": "435ad471f305fdaf5300c9f25633761c22b55e698fc91b95b7d8521f03337c01",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/drawer/drawergroup.component.d.ts": {
+        "version": "26b68992bf6c37bb72c8c73384607ea1e6a26c07e3c040150d90a78acc765624",
+        "signature": "26b68992bf6c37bb72c8c73384607ea1e6a26c07e3c040150d90a78acc765624",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/drawer/draweritem.component.d.ts": {
+        "version": "75d1cd49f8002c9db97a1f78e61fa45d4d9cafe1fbcdbda38418f11bab7765e6",
+        "signature": "75d1cd49f8002c9db97a1f78e61fa45d4d9cafe1fbcdbda38418f11bab7765e6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/select/select.service.d.ts": {
+        "version": "a264f1db505fd0ef06389f3c52debf771b950b4f1c17a4283caabb663b12f842",
+        "signature": "a264f1db505fd0ef06389f3c52debf771b950b4f1c17a4283caabb663b12f842",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/select/selectitem.component.d.ts": {
+        "version": "138754cf836952b85abad822c52ae5e4da4d97a869623d8a872f9d845a138770",
+        "signature": "138754cf836952b85abad822c52ae5e4da4d97a869623d8a872f9d845a138770",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/select/selectgroup.component.d.ts": {
+        "version": "775e24450cb1c6cfd2712bf9ccb21f6b5c01b5e91941f289326b1e2fe9f316a4",
+        "signature": "775e24450cb1c6cfd2712bf9ccb21f6b5c01b5e91941f289326b1e2fe9f316a4",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/select/select.component.d.ts": {
+        "version": "ef41562b648f903f310fd7ba9957fed45f10e5151177fc224c3114148ce05246",
+        "signature": "ef41562b648f903f310fd7ba9957fed45f10e5151177fc224c3114148ce05246",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/icon/iconanimation.d.ts": {
+        "version": "28b7fc4a5d46390e4d6dfdedbdcc7f91340bc99224e82950d07eddcca2aaeee7",
+        "signature": "28b7fc4a5d46390e4d6dfdedbdcc7f91340bc99224e82950d07eddcca2aaeee7",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/icon/icon.component.d.ts": {
+        "version": "5620996f76ec6dbf0fd2ba7d29d6f926c61b8bf572a73adc4700182927ece5f0",
+        "signature": "5620996f76ec6dbf0fd2ba7d29d6f926c61b8bf572a73adc4700182927ece5f0",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/icon/service/type.d.ts": {
+        "version": "772af1407fca7e951e194bf1240f88e4f32d6e4fea00e682bd3ed9b960b3b4c2",
+        "signature": "772af1407fca7e951e194bf1240f88e4f32d6e4fea00e682bd3ed9b960b3b4c2",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/icon/iconregistry.component.d.ts": {
+        "version": "c6a48ccadde1020f6926733eb39e121f12a3c99e59fdda1d720ed9ee648fb53f",
+        "signature": "c6a48ccadde1020f6926733eb39e121f12a3c99e59fdda1d720ed9ee648fb53f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/layout/layout.component.d.ts": {
+        "version": "21c9833f54b6217c32f88a1e6dfb4dfb2aaa8320a900821e6a4d77924caea438",
+        "signature": "21c9833f54b6217c32f88a1e6dfb4dfb2aaa8320a900821e6a4d77924caea438",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/overflowmenu/overflowmenu.component.d.ts": {
+        "version": "2947603f0c3d8b24fa59180625462d4cab213c415a01c575c8cdee66aa7b58c4",
+        "signature": "2947603f0c3d8b24fa59180625462d4cab213c415a01c575c8cdee66aa7b58c4",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/radio/radio.component.d.ts": {
+        "version": "69d4f935b2b9b2ed54f54d910b5b9d0f1875f61891b0bd98dfd1ba84468fc27d",
+        "signature": "69d4f935b2b9b2ed54f54d910b5b9d0f1875f61891b0bd98dfd1ba84468fc27d",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/radiogroup/radiogroup.component.d.ts": {
+        "version": "297735e0443eff988cd59bd10ce9605fe01573c47bd28fb53c27ba59c90bd1d2",
+        "signature": "297735e0443eff988cd59bd10ce9605fe01573c47bd28fb53c27ba59c90bd1d2",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/divider/divider.component.d.ts": {
+        "version": "33b7ec84c52ef4274b96120c6462fd7c4a8d5c6a276858965ff70fb6a9482150",
+        "signature": "33b7ec84c52ef4274b96120c6462fd7c4a8d5c6a276858965ff70fb6a9482150",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/spinner/spinner.component.d.ts": {
+        "version": "958480799d4843c22a475a92dd1dc3c96325e021a549f55f2cc83f084a72d826",
+        "signature": "958480799d4843c22a475a92dd1dc3c96325e021a549f55f2cc83f084a72d826",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/tab/tab.component.d.ts": {
+        "version": "98368852366a10e681fa713334f3dc32982bccf5b05cf8b69e085b8e711ce47e",
+        "signature": "98368852366a10e681fa713334f3dc32982bccf5b05cf8b69e085b8e711ce47e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/viewpager/viewpager.component.d.ts": {
+        "version": "4f448e6ed4d20cd47f4166bd022644bdff6e354aa7196f11293e6d73e489586a",
+        "signature": "4f448e6ed4d20cd47f4166bd022644bdff6e354aa7196f11293e6d73e489586a",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/tab/tabview.component.d.ts": {
+        "version": "fe8735726c31f2a75a4115564cec0e7d7869fe9449eac3aaed175976ce678db9",
+        "signature": "fe8735726c31f2a75a4115564cec0e7d7869fe9449eac3aaed175976ce678db9",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/tab/tabbar.component.d.ts": {
+        "version": "3553de8fdb21f47f86acc224c8ad33f55a6beb4766b55a736df34850552b74a9",
+        "signature": "3553de8fdb21f47f86acc224c8ad33f55a6beb4766b55a736df34850552b74a9",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/toggle/toggle.component.d.ts": {
+        "version": "2c4f1a09314ad29289b91d0edc17393554baed3b4039e9e4569d9ddd9fd10094",
+        "signature": "2c4f1a09314ad29289b91d0edc17393554baed3b4039e9e4569d9ddd9fd10094",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/tooltip/tooltip.component.d.ts": {
+        "version": "9512f3afc5d2a24a09743e50e6b1ce4ba605c875047fd7d193955a212d178fe0",
+        "signature": "9512f3afc5d2a24a09743e50e6b1ce4ba605c875047fd7d193955a212d178fe0",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/topnavigation/topnavigation.component.d.ts": {
+        "version": "6c688606c781f9479099a39de1061c843613d0d7f21f4c6cd29cfc115b217f84",
+        "signature": "6c688606c781f9479099a39de1061c843613d0d7f21f4c6cd29cfc115b217f84",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/topnavigation/topnavigationaction.component.d.ts": {
+        "version": "9c5114283e34e6147e90841d7a76a2b29b42be216f0772fccbec7d4f201695db",
+        "signature": "9c5114283e34e6147e90841d7a76a2b29b42be216f0772fccbec7d4f201695db",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fecha/src/fecha.d.ts": {
+        "version": "73a521e662f31b3bfca417fd7b7f48dd5be6bfd3537d39ddcd2283f99546bcbd",
+        "signature": "73a521e662f31b3bfca417fd7b7f48dd5be6bfd3537d39ddcd2283f99546bcbd",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/calendar/service/nativedate.service.d.ts": {
+        "version": "6d7890941d26a54648dbd98187fa1aa7b1b30d0629fafa3e7be7f02678ff86a5",
+        "signature": "6d7890941d26a54648dbd98187fa1aa7b1b30d0629fafa3e7be7f02678ff86a5",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/ui/index.d.ts": {
+        "version": "33a072cd751d6269fd0cf90782e3e2e79a6e516157791ffbc9f371fa07412d93",
+        "signature": "33a072cd751d6269fd0cf90782e3e2e79a6e516157791ffbc9f371fa07412d93",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ui-kitten/components/index.d.ts": {
+        "version": "6f4401e12c707b73b023f114b93bfeabab6c07e32b5e49132e06fe744a300a57",
+        "signature": "6f4401e12c707b73b023f114b93bfeabab6c07e32b5e49132e06fe744a300a57",
+        "affectsGlobalScope": false
+      },
+      "../index.tsx": {
+        "version": "931dcb95e58d14d85ab5b9dc18f4bce213efd27f8a7e93baea3c1fbe83f77b4a",
+        "signature": "00a8b905ceefd4375e10ae960d629955a4588ef1ab97d91efb682e9bfbd8c0bc",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/istanbul-lib-coverage/index.d.ts": {
+        "version": "de18acda71730bac52f4b256ce7511bb56cc21f6f114c59c46782eff2f632857",
+        "signature": "de18acda71730bac52f4b256ce7511bb56cc21f6f114c59c46782eff2f632857",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/istanbul-lib-report/index.d.ts": {
+        "version": "7eb06594824ada538b1d8b48c3925a83e7db792f47a081a62cf3e5c4e23cf0ee",
+        "signature": "7eb06594824ada538b1d8b48c3925a83e7db792f47a081a62cf3e5c4e23cf0ee",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/istanbul-reports/index.d.ts": {
+        "version": "029769d13d9917e3284cb2356ed28a6576e8b07ae6a06ee1e672518adf21a102",
+        "signature": "029769d13d9917e3284cb2356ed28a6576e8b07ae6a06ee1e672518adf21a102",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/stack-utils/index.d.ts": {
+        "version": "41422586881bcd739b4e62d9b91cd29909f8572aa3e3cdf316b7c50f14708d49",
+        "signature": "41422586881bcd739b4e62d9b91cd29909f8572aa3e3cdf316b7c50f14708d49",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/yargs-parser/index.d.ts": {
+        "version": "3bdd93ec24853e61bfa4c63ebaa425ff3e474156e87a47d90122e1d8cc717c1f",
+        "signature": "3bdd93ec24853e61bfa4c63ebaa425ff3e474156e87a47d90122e1d8cc717c1f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/yargs/index.d.ts": {
+        "version": "1a81627b04dd2feab19e26d3df04e79f50d5dae42b9b5f9181d23dc820c9f048",
+        "signature": "1a81627b04dd2feab19e26d3df04e79f50d5dae42b9b5f9181d23dc820c9f048",
+        "affectsGlobalScope": false
+      }
+    },
+    "options": {
+      "incremental": true,
+      "target": 2,
+      "lib": [
+        "lib.esnext.d.ts"
+      ],
+      "allowJs": true,
+      "jsx": 3,
+      "declaration": true,
+      "sourceMap": true,
+      "importHelpers": true,
+      "outDir": "./",
+      "strict": true,
+      "noImplicitAny": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "noImplicitReturns": true,
+      "noFallthroughCasesInSwitch": true,
+      "moduleResolution": 2,
+      "allowSyntheticDefaultImports": true,
+      "esModuleInterop": true,
+      "experimentalDecorators": true,
+      "allowUnreachableCode": false,
+      "skipLibCheck": true,
+      "configFilePath": "../tsconfig.json"
+    },
+    "referencedMap": {
+      "../index.tsx": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/index.d.ts",
+        "../node_modules/tslib/tslib.d.ts"
+      ],
+      "../node_modules/@eva-design/dss/index.d.ts": [
+        "../node_modules/@eva-design/dss/types/schema-customization.d.ts",
+        "../node_modules/@eva-design/dss/types/schema.d.ts"
+      ],
+      "../node_modules/@eva-design/dss/types/schema-customization.d.ts": [
+        "../node_modules/@eva-design/dss/types/schema.d.ts"
+      ],
+      "../node_modules/@types/istanbul-lib-report/index.d.ts": [
+        "../node_modules/@types/istanbul-lib-coverage/index.d.ts"
+      ],
+      "../node_modules/@types/istanbul-reports/index.d.ts": [
+        "../node_modules/@types/istanbul-lib-coverage/index.d.ts",
+        "../node_modules/@types/istanbul-lib-report/index.d.ts"
+      ],
+      "../node_modules/@types/react-native/devtools.d.ts": [
+        "../node_modules/@types/react-native/devtools.d.ts"
+      ],
+      "../node_modules/@types/react-native/index.d.ts": [
+        "../node_modules/@types/react-native/batchedbridge.d.ts",
+        "../node_modules/@types/react-native/devtools.d.ts",
+        "../node_modules/@types/react-native/globals.d.ts",
+        "../node_modules/@types/react-native/launchscreen.d.ts",
+        "../node_modules/@types/react-native/legacy-properties.d.ts",
+        "../node_modules/@types/react-native/node_modules/@types/react/index.d.ts"
+      ],
+      "../node_modules/@types/react-native/legacy-properties.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts"
+      ],
+      "../node_modules/@types/react-native/node_modules/@types/react/index.d.ts": [
+        "../node_modules/@types/prop-types/index.d.ts",
+        "../node_modules/@types/react-native/node_modules/@types/react/global.d.ts",
+        "../node_modules/csstype/index.d.ts"
+      ],
+      "../node_modules/@types/react/index.d.ts": [
+        "../node_modules/@types/prop-types/index.d.ts",
+        "../node_modules/@types/react/global.d.ts",
+        "../node_modules/csstype/index.d.ts"
+      ],
+      "../node_modules/@types/yargs/index.d.ts": [
+        "../node_modules/@types/yargs-parser/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/devsupport/components/falsyfc/falsyfc.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/devsupport/components/falsytext/falsytext.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/components/falsyfc/falsyfc.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/devsupport/components/measure/measure.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/components/measure/type.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/devsupport/components/touchableweb.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/components/touchablewithoutfeedback.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/devsupport/components/touchablewithoutfeedback.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/devsupport/index.d.ts": [
+        "../node_modules/@ui-kitten/components/devsupport/components/falsyfc/falsyfc.component.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/components/falsytext/falsytext.component.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/components/measure/measure.component.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/components/measure/type.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/components/touchableweb.component.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/components/touchablewithoutfeedback.component.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/services/props/props.service.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/services/rtl/rtl.service.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/services/web/webeventresponder.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/typings.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/devsupport/services/props/props.service.d.ts": [
+        "../node_modules/@ui-kitten/components/theme/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/devsupport/services/rtl/rtl.service.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/devsupport/typings.d.ts": [
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/index.d.ts": [
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/theme/application/applicationprovider.component.d.ts": [
+        "../node_modules/@eva-design/dss/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/theme/themeprovider.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/theme/index.d.ts": [
+        "../node_modules/@ui-kitten/components/theme/application/applicationprovider.component.d.ts",
+        "../node_modules/@ui-kitten/components/theme/modal/modal.service.d.ts",
+        "../node_modules/@ui-kitten/components/theme/modal/modalpanel.component.d.ts",
+        "../node_modules/@ui-kitten/components/theme/style/style.service.d.ts",
+        "../node_modules/@ui-kitten/components/theme/style/styled.d.ts",
+        "../node_modules/@ui-kitten/components/theme/theme/theme.service.d.ts",
+        "../node_modules/@ui-kitten/components/theme/theme/themeprovider.component.d.ts",
+        "../node_modules/@ui-kitten/components/theme/theme/withstyles.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/theme/modal/modal.service.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/theme/modal/modalpanel.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/modal/modal.service.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/theme/style/style.service.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/theme/style/styled.d.ts": [
+        "../node_modules/@ui-kitten/components/theme/style/style.service.d.ts",
+        "../node_modules/@ui-kitten/components/theme/theme/theme.service.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/theme/theme/themeprovider.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/theme/theme.service.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/theme/theme/withstyles.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/style/style.service.d.ts",
+        "../node_modules/@ui-kitten/components/theme/style/styled.d.ts",
+        "../node_modules/@ui-kitten/components/theme/theme/theme.service.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/animation/animation.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/animation/index.d.ts": [
+        "../node_modules/@ui-kitten/components/ui/animation/animation.d.ts",
+        "../node_modules/@ui-kitten/components/ui/animation/pulseanimation.d.ts",
+        "../node_modules/@ui-kitten/components/ui/animation/shakeanimation.d.ts",
+        "../node_modules/@ui-kitten/components/ui/animation/zoomanimation.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/animation/pulseanimation.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/animation/animation.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/animation/shakeanimation.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/animation/animation.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/animation/zoomanimation.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/animation/animation.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/autocomplete/autocomplete.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/autocomplete/autocompleteitem.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/input/input.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/popover/popover.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/autocomplete/autocompleteitem.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/list/listitem.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/avatar/avatar.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/bottomnavigation/bottomnavigation.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/bottomnavigation/bottomnavigationtab.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/bottomnavigation/bottomnavigationtab.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/button/button.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/buttongroup/buttongroup.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/button/button.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/calendar/basecalendar.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/components/picker/calendarpickercell.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/service/calendardata.service.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/service/date.service.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/type.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/calendar/calendar.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/basecalendar.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/components/picker/calendarpickercell.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/service/calendardata.service.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/calendar/components/picker/calendarpickercell.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/type.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/calendar/rangecalendar.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/basecalendar.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/components/picker/calendarpickercell.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/service/calendardata.service.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/type.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/calendar/service/calendardata.service.d.ts": [
+        "../node_modules/@ui-kitten/components/ui/calendar/service/date.service.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/type.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/calendar/service/date.service.d.ts": [
+        "../node_modules/@ui-kitten/components/ui/calendar/i18n/type.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/calendar/service/nativedate.service.d.ts": [
+        "../node_modules/@ui-kitten/components/ui/calendar/i18n/type.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/service/date.service.d.ts",
+        "../node_modules/fecha/src/fecha.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/card/card.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/checkbox/checkbox.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/datepicker/basedatepicker.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/basecalendar.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/calendar.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/rangecalendar.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/popover/type.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/datepicker/datepicker.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/calendar.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/datepicker/basedatepicker.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/datepicker/rangedatepicker.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/rangecalendar.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/datepicker/basedatepicker.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/divider/divider.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/drawer/drawer.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/menu/menu.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/drawer/drawergroup.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/menu/menugroup.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/drawer/draweritem.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/menu/menuitem.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/icon/icon.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/animation/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/icon/iconanimation.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/icon/iconanimation.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/animation/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/icon/iconregistry.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/icon/service/type.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/icon/service/type.d.ts": [
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/index.d.ts": [
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/animation/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/autocomplete/autocomplete.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/autocomplete/autocompleteitem.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/avatar/avatar.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/bottomnavigation/bottomnavigation.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/bottomnavigation/bottomnavigationtab.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/button/button.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/buttongroup/buttongroup.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/calendar.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/i18n/type.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/rangecalendar.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/service/date.service.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/service/nativedate.service.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/type.d.ts",
+        "../node_modules/@ui-kitten/components/ui/card/card.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/checkbox/checkbox.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/datepicker/datepicker.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/datepicker/rangedatepicker.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/divider/divider.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/drawer/drawer.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/drawer/drawergroup.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/drawer/draweritem.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/icon/icon.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/icon/iconregistry.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/icon/service/type.d.ts",
+        "../node_modules/@ui-kitten/components/ui/input/input.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/layout/layout.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/list/list.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/list/listitem.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/menu/menu.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/menu/menugroup.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/menu/menuitem.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/modal/modal.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/overflowmenu/overflowmenu.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/popover/popover.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/popover/type.d.ts",
+        "../node_modules/@ui-kitten/components/ui/radio/radio.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/radiogroup/radiogroup.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/select/select.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/select/selectgroup.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/select/selectitem.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/spinner/spinner.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/tab/tab.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/tab/tabbar.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/tab/tabview.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/toggle/toggle.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/tooltip/tooltip.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/topnavigation/topnavigation.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/topnavigation/topnavigationaction.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/viewpager/viewpager.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/input/input.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/layout/layout.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/list/list.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/list/listitem.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/menu/menu.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/list/list.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/menu/menuitem.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/menu/menu.service.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/menu/menugroup.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/menu/menuitem.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/menu/menuitem.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/menu/menu.service.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/modal/modal.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/overflowmenu/overflowmenu.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/menu/menu.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/menu/menuitem.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/popover/popover.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/popover/popover.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/modal/modal.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/popover/popoverview.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/popover/popoverview.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/popover/type.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/popover/type.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/radio/radio.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/radiogroup/radiogroup.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/radio/radio.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/select/select.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/select/selectgroup.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/select/selectitem.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/select/select.service.d.ts": [
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/select/selectitem.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/select/selectgroup.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/select/selectitem.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/select/selectitem.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/select/select.service.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/spinner/spinner.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/tab/tab.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/tab/tabbar.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/tab/tab.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/tab/tabview.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/tab/tab.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/viewpager/viewpager.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/toggle/toggle.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/tooltip/tooltip.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/popover/popover.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/topnavigation/topnavigation.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/topnavigation/topnavigationaction.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/viewpager/viewpager.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "../index.tsx": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../node_modules/@eva-design/dss/index.d.ts": [
+        "../node_modules/@eva-design/dss/types/schema-customization.d.ts",
+        "../node_modules/@eva-design/dss/types/schema.d.ts"
+      ],
+      "../node_modules/@eva-design/dss/types/schema-customization.d.ts": [
+        "../node_modules/@eva-design/dss/types/schema.d.ts"
+      ],
+      "../node_modules/@types/istanbul-lib-report/index.d.ts": [
+        "../node_modules/@types/istanbul-lib-coverage/index.d.ts"
+      ],
+      "../node_modules/@types/istanbul-reports/index.d.ts": [
+        "../node_modules/@types/istanbul-lib-coverage/index.d.ts",
+        "../node_modules/@types/istanbul-lib-report/index.d.ts"
+      ],
+      "../node_modules/@types/react-native/devtools.d.ts": [
+        "../node_modules/@types/react-native/devtools.d.ts"
+      ],
+      "../node_modules/@types/react-native/index.d.ts": [
+        "../node_modules/@types/react-native/batchedbridge.d.ts",
+        "../node_modules/@types/react-native/devtools.d.ts",
+        "../node_modules/@types/react-native/globals.d.ts",
+        "../node_modules/@types/react-native/launchscreen.d.ts",
+        "../node_modules/@types/react-native/legacy-properties.d.ts",
+        "../node_modules/@types/react-native/node_modules/@types/react/index.d.ts"
+      ],
+      "../node_modules/@types/react-native/legacy-properties.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts"
+      ],
+      "../node_modules/@types/react-native/node_modules/@types/react/index.d.ts": [
+        "../node_modules/@types/prop-types/index.d.ts",
+        "../node_modules/@types/react-native/node_modules/@types/react/global.d.ts",
+        "../node_modules/csstype/index.d.ts"
+      ],
+      "../node_modules/@types/react/index.d.ts": [
+        "../node_modules/@types/prop-types/index.d.ts",
+        "../node_modules/@types/react/global.d.ts",
+        "../node_modules/csstype/index.d.ts"
+      ],
+      "../node_modules/@types/yargs/index.d.ts": [
+        "../node_modules/@types/yargs-parser/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/devsupport/components/falsyfc/falsyfc.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/devsupport/components/falsytext/falsytext.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/components/falsyfc/falsyfc.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/devsupport/components/measure/measure.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/components/measure/type.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/devsupport/components/touchableweb.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/components/touchablewithoutfeedback.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/devsupport/components/touchablewithoutfeedback.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/devsupport/index.d.ts": [
+        "../node_modules/@ui-kitten/components/devsupport/components/falsyfc/falsyfc.component.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/components/falsytext/falsytext.component.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/components/measure/measure.component.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/components/measure/type.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/components/touchableweb.component.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/components/touchablewithoutfeedback.component.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/services/props/props.service.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/services/rtl/rtl.service.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/services/web/webeventresponder.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/typings.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/devsupport/services/props/props.service.d.ts": [
+        "../node_modules/@ui-kitten/components/theme/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/devsupport/services/rtl/rtl.service.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/devsupport/typings.d.ts": [
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/index.d.ts": [
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/theme/application/applicationprovider.component.d.ts": [
+        "../node_modules/@eva-design/dss/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/theme/themeprovider.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/theme/index.d.ts": [
+        "../node_modules/@ui-kitten/components/theme/application/applicationprovider.component.d.ts",
+        "../node_modules/@ui-kitten/components/theme/modal/modal.service.d.ts",
+        "../node_modules/@ui-kitten/components/theme/modal/modalpanel.component.d.ts",
+        "../node_modules/@ui-kitten/components/theme/style/style.service.d.ts",
+        "../node_modules/@ui-kitten/components/theme/style/styled.d.ts",
+        "../node_modules/@ui-kitten/components/theme/theme/theme.service.d.ts",
+        "../node_modules/@ui-kitten/components/theme/theme/themeprovider.component.d.ts",
+        "../node_modules/@ui-kitten/components/theme/theme/withstyles.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/theme/modal/modal.service.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/theme/modal/modalpanel.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/modal/modal.service.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/theme/style/style.service.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/theme/style/styled.d.ts": [
+        "../node_modules/@ui-kitten/components/theme/style/style.service.d.ts",
+        "../node_modules/@ui-kitten/components/theme/theme/theme.service.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/theme/theme/themeprovider.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/theme/theme.service.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/theme/theme/withstyles.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/style/style.service.d.ts",
+        "../node_modules/@ui-kitten/components/theme/style/styled.d.ts",
+        "../node_modules/@ui-kitten/components/theme/theme/theme.service.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/animation/animation.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/animation/index.d.ts": [
+        "../node_modules/@ui-kitten/components/ui/animation/animation.d.ts",
+        "../node_modules/@ui-kitten/components/ui/animation/pulseanimation.d.ts",
+        "../node_modules/@ui-kitten/components/ui/animation/shakeanimation.d.ts",
+        "../node_modules/@ui-kitten/components/ui/animation/zoomanimation.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/animation/pulseanimation.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/animation/animation.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/animation/shakeanimation.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/animation/animation.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/animation/zoomanimation.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/animation/animation.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/autocomplete/autocomplete.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/autocomplete/autocompleteitem.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/input/input.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/popover/popover.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/autocomplete/autocompleteitem.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/list/listitem.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/avatar/avatar.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/bottomnavigation/bottomnavigation.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/bottomnavigation/bottomnavigationtab.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/bottomnavigation/bottomnavigationtab.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/button/button.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/buttongroup/buttongroup.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/button/button.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/calendar/basecalendar.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/components/picker/calendarpickercell.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/service/calendardata.service.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/service/date.service.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/type.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/calendar/calendar.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/basecalendar.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/components/picker/calendarpickercell.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/service/calendardata.service.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/calendar/components/picker/calendarpickercell.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/type.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/calendar/rangecalendar.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/basecalendar.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/components/picker/calendarpickercell.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/service/calendardata.service.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/type.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/calendar/service/calendardata.service.d.ts": [
+        "../node_modules/@ui-kitten/components/ui/calendar/service/date.service.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/type.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/calendar/service/date.service.d.ts": [
+        "../node_modules/@ui-kitten/components/ui/calendar/i18n/type.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/calendar/service/nativedate.service.d.ts": [
+        "../node_modules/@ui-kitten/components/ui/calendar/i18n/type.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/service/date.service.d.ts",
+        "../node_modules/fecha/src/fecha.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/card/card.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/checkbox/checkbox.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/datepicker/basedatepicker.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/basecalendar.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/calendar.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/rangecalendar.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/popover/type.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/datepicker/datepicker.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/calendar.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/datepicker/basedatepicker.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/datepicker/rangedatepicker.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/rangecalendar.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/datepicker/basedatepicker.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/divider/divider.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/drawer/drawer.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/menu/menu.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/drawer/drawergroup.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/menu/menugroup.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/drawer/draweritem.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/menu/menuitem.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/icon/icon.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/animation/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/icon/iconanimation.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/icon/iconanimation.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/animation/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/icon/iconregistry.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/icon/service/type.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/icon/service/type.d.ts": [
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/index.d.ts": [
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/animation/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/autocomplete/autocomplete.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/autocomplete/autocompleteitem.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/avatar/avatar.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/bottomnavigation/bottomnavigation.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/bottomnavigation/bottomnavigationtab.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/button/button.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/buttongroup/buttongroup.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/calendar.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/i18n/type.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/rangecalendar.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/service/date.service.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/service/nativedate.service.d.ts",
+        "../node_modules/@ui-kitten/components/ui/calendar/type.d.ts",
+        "../node_modules/@ui-kitten/components/ui/card/card.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/checkbox/checkbox.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/datepicker/datepicker.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/datepicker/rangedatepicker.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/divider/divider.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/drawer/drawer.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/drawer/drawergroup.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/drawer/draweritem.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/icon/icon.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/icon/iconregistry.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/icon/service/type.d.ts",
+        "../node_modules/@ui-kitten/components/ui/input/input.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/layout/layout.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/list/list.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/list/listitem.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/menu/menu.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/menu/menugroup.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/menu/menuitem.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/modal/modal.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/overflowmenu/overflowmenu.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/popover/popover.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/popover/type.d.ts",
+        "../node_modules/@ui-kitten/components/ui/radio/radio.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/radiogroup/radiogroup.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/select/select.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/select/selectgroup.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/select/selectitem.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/spinner/spinner.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/tab/tab.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/tab/tabbar.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/tab/tabview.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/toggle/toggle.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/tooltip/tooltip.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/topnavigation/topnavigation.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/topnavigation/topnavigationaction.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/viewpager/viewpager.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/input/input.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/layout/layout.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/list/list.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/list/listitem.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/menu/menu.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/list/list.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/menu/menuitem.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/menu/menu.service.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/menu/menugroup.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/menu/menuitem.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/menu/menuitem.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/menu/menu.service.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/modal/modal.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/overflowmenu/overflowmenu.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/menu/menu.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/menu/menuitem.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/popover/popover.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/popover/popover.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/modal/modal.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/popover/popoverview.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/popover/popoverview.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/popover/type.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/popover/type.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/radio/radio.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/radiogroup/radiogroup.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/radio/radio.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/select/select.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/select/selectgroup.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/select/selectitem.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/select/select.service.d.ts": [
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/select/selectitem.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/select/selectgroup.component.d.ts": [
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/select/selectitem.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/select/selectitem.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/select/select.service.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/spinner/spinner.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/tab/tab.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/tab/tabbar.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/tab/tab.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/tab/tabview.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/tab/tab.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/viewpager/viewpager.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/toggle/toggle.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/tooltip/tooltip.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/popover/popover.component.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/topnavigation/topnavigation.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts",
+        "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/topnavigation/topnavigationaction.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+        "../node_modules/@ui-kitten/components/theme/index.d.ts"
+      ],
+      "../node_modules/@ui-kitten/components/ui/viewpager/viewpager.component.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../node_modules/@ui-kitten/components/devsupport/index.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "../index.tsx",
+      "../node_modules/@eva-design/dss/index.d.ts",
+      "../node_modules/@eva-design/dss/types/schema-customization.d.ts",
+      "../node_modules/@eva-design/dss/types/schema.d.ts",
+      "../node_modules/@types/istanbul-lib-coverage/index.d.ts",
+      "../node_modules/@types/istanbul-lib-report/index.d.ts",
+      "../node_modules/@types/istanbul-reports/index.d.ts",
+      "../node_modules/@types/prop-types/index.d.ts",
+      "../node_modules/@types/react-native/batchedbridge.d.ts",
+      "../node_modules/@types/react-native/devtools.d.ts",
+      "../node_modules/@types/react-native/globals.d.ts",
+      "../node_modules/@types/react-native/index.d.ts",
+      "../node_modules/@types/react-native/launchscreen.d.ts",
+      "../node_modules/@types/react-native/legacy-properties.d.ts",
+      "../node_modules/@types/react-native/node_modules/@types/react/global.d.ts",
+      "../node_modules/@types/react-native/node_modules/@types/react/index.d.ts",
+      "../node_modules/@types/react/global.d.ts",
+      "../node_modules/@types/react/index.d.ts",
+      "../node_modules/@types/stack-utils/index.d.ts",
+      "../node_modules/@types/yargs-parser/index.d.ts",
+      "../node_modules/@types/yargs/index.d.ts",
+      "../node_modules/@ui-kitten/components/devsupport/components/falsyfc/falsyfc.component.d.ts",
+      "../node_modules/@ui-kitten/components/devsupport/components/falsytext/falsytext.component.d.ts",
+      "../node_modules/@ui-kitten/components/devsupport/components/measure/measure.component.d.ts",
+      "../node_modules/@ui-kitten/components/devsupport/components/measure/type.d.ts",
+      "../node_modules/@ui-kitten/components/devsupport/components/touchableweb.component.d.ts",
+      "../node_modules/@ui-kitten/components/devsupport/components/touchablewithoutfeedback.component.d.ts",
+      "../node_modules/@ui-kitten/components/devsupport/index.d.ts",
+      "../node_modules/@ui-kitten/components/devsupport/services/props/props.service.d.ts",
+      "../node_modules/@ui-kitten/components/devsupport/services/rtl/rtl.service.d.ts",
+      "../node_modules/@ui-kitten/components/devsupport/services/web/webeventresponder.d.ts",
+      "../node_modules/@ui-kitten/components/devsupport/typings.d.ts",
+      "../node_modules/@ui-kitten/components/index.d.ts",
+      "../node_modules/@ui-kitten/components/theme/application/applicationprovider.component.d.ts",
+      "../node_modules/@ui-kitten/components/theme/index.d.ts",
+      "../node_modules/@ui-kitten/components/theme/modal/modal.service.d.ts",
+      "../node_modules/@ui-kitten/components/theme/modal/modalpanel.component.d.ts",
+      "../node_modules/@ui-kitten/components/theme/style/style.service.d.ts",
+      "../node_modules/@ui-kitten/components/theme/style/styled.d.ts",
+      "../node_modules/@ui-kitten/components/theme/theme/theme.service.d.ts",
+      "../node_modules/@ui-kitten/components/theme/theme/themeprovider.component.d.ts",
+      "../node_modules/@ui-kitten/components/theme/theme/withstyles.d.ts",
+      "../node_modules/@ui-kitten/components/ui/animation/animation.d.ts",
+      "../node_modules/@ui-kitten/components/ui/animation/index.d.ts",
+      "../node_modules/@ui-kitten/components/ui/animation/pulseanimation.d.ts",
+      "../node_modules/@ui-kitten/components/ui/animation/shakeanimation.d.ts",
+      "../node_modules/@ui-kitten/components/ui/animation/zoomanimation.d.ts",
+      "../node_modules/@ui-kitten/components/ui/autocomplete/autocomplete.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/autocomplete/autocompleteitem.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/avatar/avatar.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/bottomnavigation/bottomnavigation.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/bottomnavigation/bottomnavigationtab.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/button/button.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/buttongroup/buttongroup.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/calendar/basecalendar.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/calendar/calendar.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/calendar/components/picker/calendarpickercell.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/calendar/i18n/type.d.ts",
+      "../node_modules/@ui-kitten/components/ui/calendar/rangecalendar.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/calendar/service/calendardata.service.d.ts",
+      "../node_modules/@ui-kitten/components/ui/calendar/service/date.service.d.ts",
+      "../node_modules/@ui-kitten/components/ui/calendar/service/nativedate.service.d.ts",
+      "../node_modules/@ui-kitten/components/ui/calendar/type.d.ts",
+      "../node_modules/@ui-kitten/components/ui/card/card.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/checkbox/checkbox.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/datepicker/basedatepicker.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/datepicker/datepicker.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/datepicker/rangedatepicker.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/divider/divider.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/drawer/drawer.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/drawer/drawergroup.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/drawer/draweritem.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/icon/icon.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/icon/iconanimation.d.ts",
+      "../node_modules/@ui-kitten/components/ui/icon/iconregistry.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/icon/service/type.d.ts",
+      "../node_modules/@ui-kitten/components/ui/index.d.ts",
+      "../node_modules/@ui-kitten/components/ui/input/input.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/layout/layout.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/list/list.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/list/listitem.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/menu/menu.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/menu/menu.service.d.ts",
+      "../node_modules/@ui-kitten/components/ui/menu/menugroup.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/menu/menuitem.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/modal/modal.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/overflowmenu/overflowmenu.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/popover/popover.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/popover/popoverview.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/popover/type.d.ts",
+      "../node_modules/@ui-kitten/components/ui/radio/radio.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/radiogroup/radiogroup.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/select/select.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/select/select.service.d.ts",
+      "../node_modules/@ui-kitten/components/ui/select/selectgroup.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/select/selectitem.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/spinner/spinner.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/tab/tab.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/tab/tabbar.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/tab/tabview.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/text/text.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/toggle/toggle.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/tooltip/tooltip.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/topnavigation/topnavigation.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/topnavigation/topnavigationaction.component.d.ts",
+      "../node_modules/@ui-kitten/components/ui/viewpager/viewpager.component.d.ts",
+      "../node_modules/csstype/index.d.ts",
+      "../node_modules/fecha/src/fecha.d.ts",
+      "../node_modules/tslib/tslib.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "../node_modules/typescript/lib/lib.es2016.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.array.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.object.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.string.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.symbol.d.ts",
+      "../node_modules/typescript/lib/lib.es2020.bigint.d.ts",
+      "../node_modules/typescript/lib/lib.es2020.d.ts",
+      "../node_modules/typescript/lib/lib.es2020.intl.d.ts",
+      "../node_modules/typescript/lib/lib.es2020.promise.d.ts",
+      "../node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts",
+      "../node_modules/typescript/lib/lib.es2020.string.d.ts",
+      "../node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts",
+      "../node_modules/typescript/lib/lib.es5.d.ts",
+      "../node_modules/typescript/lib/lib.esnext.d.ts",
+      "../node_modules/typescript/lib/lib.esnext.intl.d.ts",
+      "../node_modules/typescript/lib/lib.esnext.promise.d.ts",
+      "../node_modules/typescript/lib/lib.esnext.string.d.ts",
+      "../node_modules/typescript/lib/lib.esnext.weakref.d.ts"
+    ]
+  },
+  "version": "4.1.3"
+}
